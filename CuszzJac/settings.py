@@ -24,7 +24,7 @@ SECRET_KEY = 'pkq-to&aw^1xen4^&7ke%xqy9u5)#97y=hs3_nyc=!&^s2d(bv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '39.108.128.129']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '39.108.128.129', '.cuszz.xin']
 
 # Application definition
 
